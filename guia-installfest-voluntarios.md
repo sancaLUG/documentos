@@ -98,7 +98,8 @@ satisfação dos novos usuários e dos voluntários.
 
 Peça permissão para usar o computador do novo usuário e agora é só instalar o
 sistema! Durante todo o processo, explique os passos envolvidos na instalação
-de um sistema; o objetivo é ensinar, para que os novos usuários sejam um dia também voluntários.
+de um sistema; o objetivo é ensinar, para que os novos usuários sejam um dia
+também voluntários.
 
 Não hesite em pedir ajuda para a organização e outros voluntários, caso você
 encontre algum problema. Veja também nossa [seção de dicas e resolução de
