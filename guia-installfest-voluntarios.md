@@ -56,6 +56,7 @@ para o usuário. Nós recomendamos as seguintes distribuições:
 * [Fedora](https://getfedora.org/)
 * [Manjaro](https://manjaro.org/)
 * [Ubuntu MATE](https://ubuntu-mate.org/)
+* [Ubuntu GNOME](https://ubuntugnome.org/)
 * [Ubuntu](https://www.ubuntu.com/)
 
 Essa lista não é, de maneira alguma, definitiva ou exaustiva. No entanto, nossa
