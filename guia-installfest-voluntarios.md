@@ -1,6 +1,6 @@
 # Guia da installfest para voluntários
 
-Ser voluntário em um installfest é uma tarefa difícil e que demanda
+Ser voluntário em uma installfest é uma tarefa difícil e que demanda
 responsabilidade — apesar disso, sua experiência também será muito
 gratificante. Este guia é um compilado de ideias, informações e instruções que
 coletamos ao longo do tempo para ajudar nossos voluntários. Ele é baseado nos
@@ -97,8 +97,7 @@ satisfação dos novos usuários e dos voluntários.
 
 Peça permissão para usar o computador do novo usuário e agora é só instalar o
 sistema! Durante todo o processo, explique os passos envolvidos na instalação
-de um sistema; o objetivo é ensinar, para que os novos usuários possam um dia
-serem também voluntários.
+de um sistema; o objetivo é ensinar, para que os novos usuários sejam um dia também voluntários.
 
 Não hesite em pedir ajuda para a organização e outros voluntários, caso você
 encontre algum problema. Veja também nossa [seção de dicas e resolução de
