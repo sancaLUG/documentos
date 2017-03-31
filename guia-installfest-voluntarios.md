@@ -126,4 +126,41 @@ desse guia e repetir.
 
 ## Dicas e problemas comuns
 
-**Em construção.**
+Para realizar o dual boot em computadores com os SOs Windows 8, 8.1 ou 10, é preciso desativar algumas configurações para obter sucesso, sendo elas o Fast Boot e o Secure Boot.
+
+### Desativando o Fast Boot
+
+O Fast Boot é uma característica específica destes sistemas novos da MS, onde quando o usuário desliga o computador, na verdade ele entra em um tipo de hibernação especial, que faz o tempo de inicialização ser bem menor quando o computador é ligado novamente. Porém, com essa opção ativada não é possível entrar na BIOS do PC, pois o SO já entra direto, pulando a etapa do boot que permite acessar as configurações do sistema.
+
+Para desativar o Fast Boot, siga os seguintes passos:
+
+1. Localize o ícone da bateria na área de notificações da barra de tarefas. Clique com o botão direito no ícone e selecione “Opções de Energia”.
+2. Nas Opções de Energia, no lado esquerdo da tela, selecione “Escolher a função do fechamento da tampa”.
+3. Na parte superior da tela, selecione “Alterar configurações não disponíveis no momento”.
+4. Na parte inferior da tela, desmarque a caixa de seleção “Ligar inicialização rápida”.
+
+Agora, basta reiniciar o computador e apertar um tecla específica para entrar na BIOS do computador (normalmente é F2, mas pode ser Del, F4, F8, depende do fabricante).
+
+Após entrar na BIOS, podemos desativar a segunda opção necessária para realizar o dual boot.
+
+### Desativando o Secure Boot
+
+Outra característica dos computadores novos (que possuem UEFI) é o Secure Boot. Com ele ativado o firmware do PC não deixa sistemas não autorizados pela MS inicializarem na máquina, dentre outras restrições, por isso é importante desativá-lo também.
+
+Algumas montadoras, como a Acer, impedem que o Secure Boot seja desativado caso o computador não tenha a senha de supervisor setada na BIOS.
+
+#### Notebooks Acer
+
+Para desativar o Secure Boot em notebooks Acer, siga os seguintes passos:
+
+1. Tendo desativado o Fast Boot, acesse a BIOS apertando F2 durante a inicialização.
+2. Ao entrar na BIOS, acesse a aba Security e aperte Enter em “Set Supervisor Password”.
+3. Após criada a senha, acesse a aba “Boot”, aperte Enter em “Secure Boot” e selecione “Disabled”.
+
+#### Notebooks de outras marcas
+
+Geralmente o processo é bem parecido, mudando apenas que não necessita da senha, ou seja, só seguir o passo 3 descrito acima.
+
+
+
+
