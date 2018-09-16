@@ -182,3 +182,13 @@ Para desativar o Secure Boot em notebooks Acer, siga os seguintes passos:
 Geralmente, o processo é bem parecido com as instruções acima, exceto pela
 necessidade de setar uma senha de supervisor. Em outras palavras, basta
 executar o passo 3, acima.
+
+#### Grub quebrado ou não reconhecendo o windows
+
+No Ubuntu a ferramenta *boot-repair* pode ser usada para reparar o grub.
+
+#### Notebooks que bootam o windows após a instalação
+
+Ver *Grub quebrado ou não reconhecendo o windows* acima.
+
+Há firmwares EFI que podem não aceitar um caminho de boot direfente do Windows. Nesse caso pode ser tentado usar a carta na manga da figura photo_2018-09-04_22-01-40.png presente nesse repositório
