@@ -2,7 +2,7 @@
 
 O sancaLUG procura criar um ambiente aconchegante para todas as pessoas discutirem, ensinarem e aprenderem, independente de escolaridade, idade, etnia, gênero, sexo, orientação sexual, religião, aparência física, deficiências. Queremos que as experiências em nosso ambiente sejam agradáveis e gratificantes. Desse modo, espera-se que todos os participantes se comportem com respeito mútuo e tolerância.
 
-Todos os membros do sancaLUG têm obrigação de seguir esse Código de Conduta, assim como todos os participantes das atividades neste ambiente. Isso se aplica aos eventos e reuniões do hackerspace e também aos canais de comunicação e atividades virtuais.
+Todos os membros do sancaLUG têm obrigação de seguir esse Código de Conduta, assim como todos os participantes das atividades neste ambiente. Isso se aplica aos eventos e reuniões do sancaLLUG e também aos canais de comunicação e atividades virtuais.
 
 Comportamentos tóxicos incluem, mas não se limitam a, comentários ofensivos e/ou desagradáveis, intimidação, contato físico inapropriado, fotografia sem autorização, perseguição, piadas sexistas/racistas, humilhação, imagens/linguagem sexualizadas, interrupções reiteradas em palestras/reuniões/conversas. Cuidado com as palavras em comunicação é importante: excesso de piadas ou palavras de baixo calão não são apropriados.
 
